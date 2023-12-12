@@ -1,0 +1,10 @@
+Meta tags can help with search engine optimization (SEO). They can: 
+ Help search engines understand the topic of your page
+ Help people understand the contents of your page
+ Avoid duplicate content issues
+ Drive clicks and organic search traffic
+Some benefits of using meta tags include: 
+ Relevancy: Meta tags show search engines how relevant your page is to the user's query
+ Save time: You don't need to write too much
+ Optimize your site: Meta tags can optimize your site without making things untidy
+ Track metrics: Meta tags allow you to track your metrics better

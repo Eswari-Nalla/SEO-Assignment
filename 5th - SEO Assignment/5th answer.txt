@@ -1,0 +1,3 @@
+A favicon is a small file containing the one or more icons which are used to represent the website or a blog.
+It is also known as a tab icon, website icon, URL icon, or a bookmark icon.
+This icon is actually displayed on the address bar, browser's tab, browser history, bookmark bar, etc.
